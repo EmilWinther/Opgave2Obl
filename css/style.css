@@ -1,4 +1,19 @@
 .info {
     color: aqua;
+    font-family: sourceCodePro;
+    src: url(fonts/SourceCodePro-Regular);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lavender;
+    color: white;
+    text-align: center;
+}
+
+h2 {
     font-family: monospace;
 }
