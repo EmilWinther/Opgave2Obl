@@ -1,9 +1,3 @@
-.info {
-    color: aqua;
-    font-family: sourceCodePro;
-    src: url(fonts/SourceCodePro-Regular);
-}
-
 .footer {
     position: fixed;
     left: 0;
@@ -16,4 +10,8 @@
 
 h2 {
     font-family: monospace;
+}
+.row
+{
+    background-color: lavender;
 }
